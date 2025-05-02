@@ -30,8 +30,7 @@ Ans. Refresh the UI like example, setState( todos.replacerange(index,index+1,{ou
 <h1>Section C</h1>
 <h2>Practical</h2>
  <p>
-Ans. Todo App Done.
-   ![Screenshot 2025-05-02 161711](https://github.com/user-attachments/assets/916431c5-55cb-42c7-a707-a3d85529689c)
+Ans. Todo App Done. </p>
+ 
+ ![Screenshot 2025-05-02 161711](https://github.com/user-attachments/assets/48dba13a-dde6-401d-8e07-abbedc63a23a)
 
-
- </p>
