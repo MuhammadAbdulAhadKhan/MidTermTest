@@ -1,4 +1,7 @@
-<center><h1>Class Mid Term Test Date: 2-5-2025 Time : 1:30Hour</h1></center>
+<center><h1>Class Mid Term Test</h1>
+ <h2>Faculty : Sir Syed Muhammad Arsalan Shah</h2>
+ <h2>Student : Muhammad Abdul Ahad Khan</h2>
+<h3>Date: 2-5-2025 Time : 1:30Hour</h3></center>
 
 
 <h1>Section A</h1>
