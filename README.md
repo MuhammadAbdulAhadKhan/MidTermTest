@@ -1,3 +1,6 @@
+<center><h1>Class Mid Term Test Date: 2-5-2025 Time : 1:30Hour</h1></center>
+
+
 <h1>Section A</h1>
 <h2>True/False</h2>
 <p>
