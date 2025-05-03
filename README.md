@@ -13,7 +13,7 @@
  </center>
 
 
-<h1>Section A</h1>
+<h1>✅ Section A</h1>
 <h2>True/False (20 Marks)</h2>
 <h3>Obtain Marks : 20</h3>
 <p>
@@ -30,7 +30,7 @@
 </p>
 
 
-<h1>Section B</h1>
+<h1>✍️ Section B</h1>
 <h2>Short Question / Ans (30 Marks)</h2>
 <h3>Obtain Marks : 30</h3>
 
@@ -45,7 +45,7 @@ Q3) What is the purpose of setState() in a Flutter app?<br>
 Ans. Refresh the UI like example, setState( todos.replacerange(index,index+1,{output}));
 </p>
 
-<h1>Section C</h1>
+<h1>💻 Section C</h1>
 <h2>Practical (50 Marks)</h2>
 <h3>Obtain Marks : 50</h3>
  <p>
