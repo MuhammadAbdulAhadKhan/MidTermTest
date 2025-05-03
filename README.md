@@ -5,7 +5,8 @@
 
 
 <h1>Section A</h1>
-<h2>True/False</h2>
+<h2>True/False (20 Marks)</h2>
+<h3>Obtain Marks : 20</h3>
 <p>
 1.	Flutter uses Dart as its core programming language. (True)<br>
 2.	StatefulWidget is used when the UI does not need to change.(False)<br>
@@ -21,7 +22,8 @@
 
 
 <h1>Section B</h1>
-<h2>Short Question / Ans</h2>
+<h2>Short Question / Ans (30 Marks)</h2>
+<h3>Obtain Marks : 30</h3>
 
 <p>
 Q1) Differentiate between StatefulWidget and StatelessWidget.<br>
@@ -35,9 +37,13 @@ Ans. Refresh the UI like example, setState( todos.replacerange(index,index+1,{ou
 </p>
 
 <h1>Section C</h1>
-<h2>Practical</h2>
+<h2>Practical (50 Marks)</h2>
+<h3>Obtain Marks : 50</h3>
  <p>
 Ans. Todo App Done. </p>
  
  ![Screenshot 2025-05-02 161711](https://github.com/user-attachments/assets/48dba13a-dde6-401d-8e07-abbedc63a23a)
+
+ <h1>Total Marks : 100/100</h1>
+ <h2>Checked By Sir Syed Muhammad Arsalan Shah</h2>
 
